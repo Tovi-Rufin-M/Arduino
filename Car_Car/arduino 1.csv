@@ -1,0 +1,5 @@
+components,value,amount,price,total_price,num_members,price/person
+battery,9v,1,101,101,6,16.83333333
+DC Motor,3-12v,2,150,300,6,50
+L293 Drive,module,1,150,150,6,25
+Total,,4,401,551,18,91.83333333
